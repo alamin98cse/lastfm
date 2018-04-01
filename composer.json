@@ -1,5 +1,5 @@
 {
-    "name": "Integration/Lastfm",
+    "name": "integration/lastfm",
     "type": "library",
     "description": "Talk to Last.fm",
     "keywords": [
